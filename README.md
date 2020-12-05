@@ -9,3 +9,5 @@
 - localStorage
 - xml
 - css
+- redux
+- Netlify-hosting
